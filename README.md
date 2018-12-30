@@ -1,4 +1,5 @@
-# This is a kaggle project named [Bengali Handwritten Digit Recognition] (https://www.kaggle.com/c/numta)
+# This is a kaggle project named 
+[Bengali Handwritten Digit Recognition] (https://www.kaggle.com/c/numta)
 **Pipeline :**<br>
 All train images (augmented and raw images) are appended in X_train after processing and all the labels for the train
 (augmented and raw images) images are stored in the y_train.<br ><br>
