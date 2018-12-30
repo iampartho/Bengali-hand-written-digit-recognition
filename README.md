@@ -15,15 +15,13 @@ dataset , so datasets are multiplied by 7 times.<br><br>
 I used a CNN model in which there are 10 CNN layer and a max pooling layer after every two layers followed by 3 fully connected layers
 and the output layer . <br><br>
 
-### ALL THE IMAGES ARE IN THIS DIRECTORY EXACTLY LIKE IN THE "numtaDB" , THE DIFFERENCE IS THAT THE ZIPPED FILES ARE UNZIPPED
-IN SUB-FOLDERS ON THE SAME DIRECTORY MENTIONED BELOW. All the images are in the following directory follow the exact dataset structure of
-the dataset of "[numtaDB](https://www.kaggle.com/BengaliAI/numta)<br>
+### All the images are in the following directory follow the exact dataset structure of the dataset of "[numtaDB](https://www.kaggle.com/BengaliAI/numta)"<br>
 * G:/Numta_Workshop/Numta_Workshop/
 
 ### The code is written in "python 3.5" which uses the external packages as follows:
-*Keras
-*Tensorflow
-*Numpy
-*Matplotlib
-*Opencv
-*Pandas
+* Keras
+* Tensorflow
+* Numpy
+* Matplotlib
+* Opencv
+* Pandas
