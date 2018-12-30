@@ -1,5 +1,4 @@
-# This is a kaggle project named 
-[Bengali Handwritten Digit Recognition] (https://www.kaggle.com/c/numta)
+# This is a kaggle project named [Bengali Handwritten Digit Recognition](https://www.kaggle.com/c/numta)
 **Pipeline :**<br>
 All train images (augmented and raw images) are appended in X_train after processing and all the labels for the train
 (augmented and raw images) images are stored in the y_train.<br ><br>
@@ -18,7 +17,7 @@ and the output layer . <br><br>
 
 ### ALL THE IMAGES ARE IN THIS DIRECTORY EXACTLY LIKE IN THE "numtaDB" , THE DIFFERENCE IS THAT THE ZIPPED FILES ARE UNZIPPED
 IN SUB-FOLDERS ON THE SAME DIRECTORY MENTIONED BELOW. All the images are in the following directory follow the exact dataset structure of
-the dataset of "[numtaDB]"(https://www.kaggle.com/BengaliAI/numta)<br>
+the dataset of "[numtaDB](https://www.kaggle.com/BengaliAI/numta)<br>
 * G:/Numta_Workshop/Numta_Workshop/
 
 ### The code is written in "python 3.5" which uses the external packages as follows:
