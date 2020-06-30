@@ -23,5 +23,5 @@ and the output layer . <br><br>
 * Tensorflow
 * Numpy
 * Matplotlib
-* Opencv
+* Opencv(cv2)
 * Pandas
